@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "fetch": "writable",
+    "alert": "writable",
+    "window": "writable"
+  },
+  "rules": {
+    "arrow-parens": [
+      "error",
+      "always"
+    ],
+    "arrow-body-style": 0,
+    "react/jsx-filename-extension": 0,
+    "react/prop-types": 0,
+    "react/jsx-one-expression-per-line": 0
+  }
+}
