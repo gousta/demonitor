@@ -1,7 +1,6 @@
 {
-  "name": "node-deploy-monitor",
+  "name": "demonitor",
   "version": "1.0.0",
-  "main": "demonitor.js",
   "repository": "git@github.com:gousta/node-deploy-monitor.git",
   "author": "Stratos Giouldasis <giouldasis.stratos@gmail.com>",
   "license": "MIT",
