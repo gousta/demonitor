@@ -2,8 +2,10 @@
 
 ### CLI tool demo:
 
-For CLI to work, you need to install a couple of deps using `yarn install` in the root directory.
-Then just execute `node cli.js` to get started.
+#### Setup
+
+- In the root directory, run: `yarn install`
+- Run `node cli.js` to get started
 
 ##### Build
 
