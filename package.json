@@ -9,7 +9,7 @@
     "docker-cli-js": "^2.5.2",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "shortid": "^2.2.14",
     "socket.io": "^2.2.0",
     "vorpal": "^1.12.0",
