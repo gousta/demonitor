@@ -7,7 +7,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "docker-cli-js": "^2.5.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "shortid": "^2.2.14",
